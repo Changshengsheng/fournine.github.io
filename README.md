@@ -6,7 +6,7 @@
 
 
 
-- <a href="https://bbs.mihoyo.com/ys/" target="_blank"><font color='red'> 技术宅拯救世界</font><a/>
+### 喜欢的一句话：<a href="https://bbs.mihoyo.com/ys/" target="_blank"><font color='red'> 技术宅拯救世界</font><a/>
 
 
 
